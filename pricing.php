@@ -1,6 +1,6 @@
 <!-- Pricing Section -->
 <div class="w3-padding-64 w3-center w3-white">
-        <h1 class="w3-jumbo"><b>Pricing</b></h1>
+        <h1 class="w3-jumbo"><b>Preços</b></h1>
         <p class="w3-large">Choose a pricing plan that fits your needs.</p>
         <div class="w3-row-padding" style="margin-top:64px">
             <div class="w3-half w3-section">
